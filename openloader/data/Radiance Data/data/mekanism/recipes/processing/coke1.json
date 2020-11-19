@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "item": "thermal:coal_coke"
+    }
+  },
+  "output": {
+    "item": "immersiveengineering:dust_coke"
+  }
+}

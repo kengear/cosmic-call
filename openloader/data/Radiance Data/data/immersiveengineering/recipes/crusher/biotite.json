@@ -1,0 +1,12 @@
+{
+  "type": "immersiveengineering:crusher",
+  "secondaries": [],
+  "result": {
+    "item": "quark:biotite",
+    "count": 2
+  },
+  "input": {
+    "item": "quark:biotite_ore"
+  },
+  "energy": 1600
+}

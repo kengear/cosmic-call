@@ -1,0 +1,18 @@
+{
+  "type": "immersiveengineering:sawmill",
+  "secondaries": [
+    {
+      "output": {
+        "item": "thermal:sawdust"
+      },
+      "stripping": false
+    }
+  ],
+  "result": {
+    "item": "biomesoplenty:magic_planks"
+  },
+  "input": {
+    "item": "biomesoplenty:magic_door"
+  },
+  "energy": 800
+}

@@ -1,0 +1,19 @@
+{
+  "modId": "inspirations",
+  "group": {
+    "name": "Inspirations Mushrooms",
+    "enabledByDefault": true,
+    "defaultPayment": {
+      "item": "minecraft:emerald"
+    },
+    "defaultCategory": "farmingforblockheads:seeds"
+  },
+  "customEntries": [
+    {
+      "output": "inspirations:sugar_cane_seeds"
+    },
+    {
+      "output": "inspirations:cactus_seeds"
+    }
+  ]
+}

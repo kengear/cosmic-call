@@ -1,0 +1,33 @@
+{
+  "type": "immersiveengineering:sawmill",
+  "secondaries": [
+    {
+      "output": {
+        "item": "thermal:sawdust"
+      },
+      "stripping": true
+    },
+    {
+      "output": {
+        "item": "thermal:sawdust"
+      },
+      "stripping": false
+    }
+  ],
+  "result": {
+    "item": "biomesoplenty:umbran_planks",
+    "count": 6
+  },
+  "energy": 1600,
+  "input": [
+    {
+      "item": "biomesoplenty:umbran_log"
+    },
+    {
+      "item": "biomesoplenty:umbran_wood"
+    }
+  ],
+  "stripped": {
+    "item": "biomesoplenty:stripped_umbran_log"
+  }
+}

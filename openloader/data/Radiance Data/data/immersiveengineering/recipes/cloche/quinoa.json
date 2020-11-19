@@ -1,0 +1,23 @@
+{
+  "type": "immersiveengineering:cloche",
+  "results": [
+    {
+      "item": "simplefarming:quinoa_seeds",
+      "count": 2
+    },
+    {
+      "item": "simplefarming:quinoa_seeds"
+    }
+  ],
+  "input": {
+    "item": "simplefarming:quinoa_seeds"
+  },
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 800,
+  "render": {
+    "type": "crop",
+    "block": "simplefarming:quinoa"
+  }
+}

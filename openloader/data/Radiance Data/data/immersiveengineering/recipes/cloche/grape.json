@@ -1,0 +1,23 @@
+{
+  "type": "immersiveengineering:cloche",
+  "results": [
+    {
+      "item": "simplefarming:grape",
+      "count": 2
+    },
+    {
+      "item": "simplefarming:grape_seeds"
+    }
+  ],
+  "input": {
+    "item": "simplefarming:grape_seeds"
+  },
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 800,
+  "render": {
+    "type": "crop",
+    "block": "simplefarming:grape_crop"
+  }
+}

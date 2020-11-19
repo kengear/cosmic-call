@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "item": "inspirations:paeonia"
+    }
+  },
+  "output": {
+    "item": "mekanism:bio_fuel",
+    "count": 5
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:squeezer",
+  "fluid": {
+    "fluid": "immersiveengineering:plantoil",
+    "amount": 80
+  },
+  "input": {
+    "item": "thermal:frost_melon_seeds"
+  },
+  "energy": 6400
+}

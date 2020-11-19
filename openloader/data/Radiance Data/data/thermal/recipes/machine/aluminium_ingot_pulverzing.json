@@ -1,0 +1,13 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "item": "immersiveengineering:ingot_aluminum"
+  },
+  "result": [
+    {
+      "item": "immersiveengineering:dust_aluminum",
+      "chance": 1.0
+    }
+  ],
+  "experience": 0.0
+}

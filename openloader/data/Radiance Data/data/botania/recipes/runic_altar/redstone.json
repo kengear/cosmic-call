@@ -1,0 +1,22 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "contenttweaker:redstone_rune",
+    "count": 1
+  },
+  "mana": 10000,
+  "ingredients": [
+    {
+      "tag": "forge:dusts/mana"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "botania:redstone_root"
+    },
+    {
+      "item": "thermal:electrum_ingot"
+    }
+  ]
+}

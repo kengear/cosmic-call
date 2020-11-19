@@ -1,0 +1,22 @@
+{
+  "modId": "inspirations",
+  "group": {
+    "name": "Inspirations Flowers",
+    "enabledByDefault": true,
+    "defaultPayment": {
+      "item": "minecraft:emerald"
+    },
+    "defaultCategory": "farmingforblockheads:flowers"
+  },
+  "customEntries": [
+    {
+      "output": "inspirations:cyan_flower"
+    },
+    {
+      "output": "inspirations:syringa"
+    },
+    {
+      "output": "inspirations:paeonia"
+    }
+  ]
+}

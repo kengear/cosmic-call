@@ -1,0 +1,18 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "tag": "forge:ores/biotite"
+  },
+  "result": {
+    "primary": {
+      "item": "quark:biotite"
+    },
+    "optional": [
+      {
+        "item": "quark:biotite"
+      }
+    ]
+  },
+  "turns": 8
+}
+}

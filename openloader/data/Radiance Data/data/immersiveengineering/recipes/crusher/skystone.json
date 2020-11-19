@@ -1,0 +1,12 @@
+{
+  "type": "immersiveengineering:crusher",
+  "secondaries": [],
+  "result": {
+    "item": "appliedenergistics2:sky_dust",
+    "count": 2
+  },
+  "input": {
+    "item": "appliedenergistics2:sky_stone_block"
+  },
+  "energy": 3000
+}

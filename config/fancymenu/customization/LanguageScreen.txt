@@ -1,0 +1,13 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.LanguageScreen
+  renderorder = foreground
+}
+
+customization {
+  path = config/fancymenu/findingland.wav
+  loop = true
+  action = addaudio
+}
+

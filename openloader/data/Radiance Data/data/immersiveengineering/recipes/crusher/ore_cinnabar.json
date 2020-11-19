@@ -1,0 +1,14 @@
+{
+  "type": "immersiveengineering:crusher",
+  "secondaries": [],
+  "result": {
+    "count": 2,
+    "base_ingredient": {
+      "tag": "forge:gems/cinnabar"
+    }
+  },
+  "input": {
+    "tag": "forge:ores/cinnabar"
+  },
+  "energy": 6000
+}

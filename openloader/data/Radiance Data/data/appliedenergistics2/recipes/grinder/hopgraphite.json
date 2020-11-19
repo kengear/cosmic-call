@@ -1,0 +1,12 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "immersiveengineering:ingot_hop_graphite"
+  },
+  "result": {
+    "primary": {
+      "item": "immersiveengineering:dust_hop_graphite"
+    }
+  },
+  "turns": 4
+}

@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:crusher",
+  "secondaries": [],
+  "result": {
+    "item": "thermal:diamond_dust"
+  },
+  "input": {
+    "tag": "forge:gems/diamond"
+  },
+  "energy": 3000
+}

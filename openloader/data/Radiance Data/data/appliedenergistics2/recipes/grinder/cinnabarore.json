@@ -1,0 +1,17 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "tag": "forge:ores/cinnabar"
+  },
+  "result": {
+    "primary": {
+      "item": "thermal:cinnabar"
+    },
+    "optional": [
+      {
+        "item": "thermal:cinnabar"
+      }
+    ]
+  },
+  "turns": 8
+}

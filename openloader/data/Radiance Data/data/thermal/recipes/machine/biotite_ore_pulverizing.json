@@ -1,0 +1,13 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "item": "quark:biotite_ore"
+  },
+  "result": [
+    {
+      "item": "quark:biotite",
+      "chance": 2.0
+    }
+  ],
+  "experience": 0.5
+}

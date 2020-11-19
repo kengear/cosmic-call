@@ -1,0 +1,13 @@
+type = menu
+
+customization-meta {
+  identifier = com.blamejared.controlling.client.gui.GuiNewControls
+  renderorder = foreground
+}
+
+customization {
+  path = config/fancymenu/findingland.wav
+  loop = true
+  action = addaudio
+}
+

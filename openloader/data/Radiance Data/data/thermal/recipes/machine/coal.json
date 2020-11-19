@@ -1,0 +1,13 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "item": "minecraft:coal"
+  },
+  "result": [
+    {
+      "item": "mekanism:dust_coal",
+      "chance": 1.0
+    }
+  ],
+  "experience": 0.1
+}

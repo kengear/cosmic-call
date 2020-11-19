@@ -1,0 +1,12 @@
+{
+  "type": "immersiveengineering:crusher",
+  "secondaries": [],
+  "result": {
+    "item": "appliedenergistics2:flour",
+    "count": 2
+  },
+  "input": {
+    "tag": "forge:grain"
+  },
+  "energy": 1000
+}

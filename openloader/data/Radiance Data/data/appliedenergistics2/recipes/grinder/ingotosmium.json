@@ -1,0 +1,12 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "mekanism:ingot_osmium"
+  },
+  "result": {
+    "primary": {
+      "item": "mekanism:dust_osmium"
+    }
+  },
+  "turns": 4
+}

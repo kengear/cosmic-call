@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "ingredient": {
+      "item": "rftoolsbase:dimensionalshard_nether"
+    }
+  },
+  "output": {
+    "item": "rftoolsbase:dimensionalshard",
+    "count": 2
+  }
+}

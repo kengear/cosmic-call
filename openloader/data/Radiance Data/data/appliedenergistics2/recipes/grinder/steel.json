@@ -1,0 +1,12 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "mekanism:ingot_steel"
+  },
+  "result": {
+    "primary": {
+      "item": "mekanism:dust_steel"
+    }
+  },
+  "turns": 4
+}

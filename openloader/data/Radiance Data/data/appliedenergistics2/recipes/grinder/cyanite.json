@@ -1,0 +1,12 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "biggerreactors:cyanite_ingot"
+  },
+  "result": {
+    "primary": {
+      "item": "biggerreactors:cyanite_dust"
+    }
+  },
+  "turns": 4
+}

@@ -1,0 +1,18 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "tag": "forge:ores/aluminum"
+  },
+  "result": {
+    "primary": {
+      "item": "immersiveengineering:dust_aluminum"
+    },
+    "optional": [
+      {
+        "item": "immersiveengineering:dust_aluminum"
+      }
+    ]
+  },
+  "turns": 8
+}
+}

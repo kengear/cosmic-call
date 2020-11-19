@@ -1,0 +1,17 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "minecraft:lapis_ore"
+  },
+  "result": {
+    "primary": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "optional": [
+      {
+        "item": "minecraft:lapis_lazuli"
+      }
+    ]
+  },
+  "turns": 8
+}

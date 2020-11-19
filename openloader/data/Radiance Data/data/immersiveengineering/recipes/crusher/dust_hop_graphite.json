@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:crusher",
+  "secondaries": [],
+  "result": {
+    "item": "immersiveengineering:dust_hop_graphite"
+  },
+  "input": {
+    "tag": "forge:ingots/hop_graphite"
+  },
+  "energy": 3000
+}

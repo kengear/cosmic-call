@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "ingredient": {
+      "item": "thermal:apatite_ore"
+    }
+  },
+  "output": {
+    "item": "thermal:apatite",
+    "count": 12
+  }
+}

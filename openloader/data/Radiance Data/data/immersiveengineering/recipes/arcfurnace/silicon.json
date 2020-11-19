@@ -1,0 +1,14 @@
+{
+  "type": "immersiveengineering:arc_furnace",
+  "results": [
+    {
+      "item": "refinedstorage:silicon"
+    }
+  ],
+  "additives": [],
+  "input": {
+    "tag": "appliedenergistics2:dusts/quartz"
+  },
+  "time": 100,
+  "energy": 51200
+}

@@ -1,0 +1,14 @@
+{
+  "type": "immersiveengineering:arc_furnace",
+  "results": [
+    {
+      "item": "biggerreactors:ludicrite_ingot"
+    }
+  ],
+  "additives": [],
+  "input": {
+    "item": "biggerreactors:ludicrite_dust"
+  },
+  "time": 100,
+  "energy": 25000
+}

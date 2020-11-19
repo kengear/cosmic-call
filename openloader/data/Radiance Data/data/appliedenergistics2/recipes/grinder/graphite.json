@@ -1,0 +1,12 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "biggerreactors:graphite_ingot"
+  },
+  "result": {
+    "primary": {
+      "item": "biggerreactors:graphite_dust"
+    }
+  },
+  "turns": 4
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Atomic",
+  "colors": [
+    "9038B0",
+    "9038B0"
+  ],
+  "ingredient": {
+    "item": "mekanism:alloy_atomic"
+  },
+  "inUltimateSingularity": true
+}

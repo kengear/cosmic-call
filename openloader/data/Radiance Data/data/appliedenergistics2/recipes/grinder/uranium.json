@@ -1,0 +1,12 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "mekanism:ingot_uranium"
+  },
+  "result": {
+    "primary": {
+      "item": "mekanism:ingot_uranium"
+    }
+  },
+  "turns": 4
+}

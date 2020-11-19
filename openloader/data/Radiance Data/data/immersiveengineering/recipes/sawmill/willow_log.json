@@ -1,0 +1,33 @@
+{
+  "type": "immersiveengineering:sawmill",
+  "secondaries": [
+    {
+      "output": {
+        "item": "thermal:sawdust"
+      },
+      "stripping": true
+    },
+    {
+      "output": {
+        "item": "thermal:sawdust"
+      },
+      "stripping": false
+    }
+  ],
+  "result": {
+    "item": "biomesoplenty:willow_planks",
+    "count": 6
+  },
+  "energy": 1600,
+  "input": [
+    {
+      "item": "biomesoplenty:willow_log"
+    },
+    {
+      "item": "biomesoplenty:willow_wood"
+    }
+  ],
+  "stripped": {
+    "item": "biomesoplenty:stripped_willow_log"
+  }
+}

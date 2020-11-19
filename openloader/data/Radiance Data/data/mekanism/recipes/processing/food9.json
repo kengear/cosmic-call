@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "item": "farmersdelight:sweet_berry_cheesecake"
+    }
+  },
+  "output": {
+    "item": "mekanism:bio_fuel",
+    "count": 8
+  }
+}

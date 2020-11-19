@@ -1,0 +1,17 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "tag": "forge:ores/sulfur"
+  },
+  "result": {
+    "primary": {
+      "item": "thermal:sulfur"
+    },
+    "optional": [
+      {
+        "item": "thermal:sulfur"
+      }
+    ]
+  },
+  "turns": 8
+}

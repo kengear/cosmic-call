@@ -1,0 +1,13 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "item": "mekanism:fluorite_ore"
+  },
+  "result": [
+    {
+      "item": "mekanism:fluorite_gem",
+      "chance": 6.0
+    }
+  ],
+  "experience": 0.2
+}

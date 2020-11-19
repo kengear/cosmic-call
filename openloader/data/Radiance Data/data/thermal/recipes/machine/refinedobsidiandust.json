@@ -1,0 +1,13 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "item": "mekanism:ingot_refined_obsidian"
+  },
+  "result": [
+    {
+      "item": "mekanism:dust_refined_obsidian",
+      "chance": 1.0
+    }
+  ],
+  "experience": 0.1
+}

@@ -1,0 +1,12 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "biggerreactors:ludicrite_ingot"
+  },
+  "result": {
+    "primary": {
+      "item": "biggerreactors:ludicrite_dust"
+    }
+  },
+  "turns": 4
+}

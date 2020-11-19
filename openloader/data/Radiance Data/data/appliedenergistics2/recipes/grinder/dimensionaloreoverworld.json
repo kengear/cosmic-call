@@ -1,0 +1,17 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "rftoolsbase:dimensionalshard_overworld"
+  },
+  "result": {
+    "primary": {
+      "item": "rftoolsbase:dimensionalshard"
+    },
+    "optional": [
+      {
+        "item": "rftoolsbase:dimensionalshard"
+      }
+    ]
+  },
+  "turns": 8
+}

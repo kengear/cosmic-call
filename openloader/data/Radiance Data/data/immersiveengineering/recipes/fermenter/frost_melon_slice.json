@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:fermenter",
+  "fluid": {
+    "fluid": "immersiveengineering:ethanol",
+    "amount": 20
+  },
+  "input": {
+    "item": "thermal:frost_melon_slice"
+  },
+  "energy": 6400
+}

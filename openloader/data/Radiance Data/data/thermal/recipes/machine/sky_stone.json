@@ -1,0 +1,13 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "item": "appliedenergistics2:sky_stone_block"
+  },
+  "result": [
+    {
+      "item": "appliedenergistics2:sky_dust",
+      "chance": 1.0
+    }
+  ],
+  "experience": 0.0
+}

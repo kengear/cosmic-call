@@ -1,0 +1,12 @@
+{
+  "type": "immersiveengineering:crusher",
+  "secondaries": [],
+  "result": {
+    "item": "rftoolsbase:dimensionalshard",
+    "count": 2
+  },
+  "input": {
+    "item": "rftoolsbase:dimensionalshard_overworld"
+  },
+  "energy": 3000
+}

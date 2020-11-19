@@ -1,0 +1,17 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "minecraft:redstone_ore"
+  },
+  "result": {
+    "primary": {
+      "item": "minecraft:redstone"
+    },
+    "optional": [
+      {
+        "item": "minecraft:redstone"
+      }
+    ]
+  },
+  "turns": 8
+}

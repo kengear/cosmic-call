@@ -1,0 +1,12 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "thermal:invar_ingot"
+  },
+  "result": {
+    "primary": {
+      "item": "thermal:invar_dust"
+    }
+  },
+  "turns": 4
+}

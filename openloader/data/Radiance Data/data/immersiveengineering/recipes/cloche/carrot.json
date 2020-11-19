@@ -1,0 +1,23 @@
+{
+  "type": "immersiveengineering:cloche",
+  "results": [
+    {
+      "item": "minecraft:carrot",
+      "count": 2
+    },
+    {
+      "item": "simplefarming:carrot_seeds"
+    }
+  ],
+  "input": {
+    "item": "simplefarming:carrot_seeds"
+  },
+  "soil": {
+    "item": "minecraft:dirt"
+  },
+  "time": 800,
+  "render": {
+    "type": "crop",
+    "block": "minecraft:carrots"
+  }
+}

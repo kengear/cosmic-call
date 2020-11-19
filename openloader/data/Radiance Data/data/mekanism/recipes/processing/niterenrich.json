@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "ingredient": {
+      "item": "thermal:niter_ore"
+    }
+  },
+  "output": {
+    "item": "thermal:niter",
+    "count": 6
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "item": "rftoolsbase:dimensionalshard_overworld"
+  },
+  "result": [
+    {
+      "item": "rftoolsbase:dimensionalshard",
+      "chance": 2.0
+    }
+  ],
+  "experience": 0.5
+}

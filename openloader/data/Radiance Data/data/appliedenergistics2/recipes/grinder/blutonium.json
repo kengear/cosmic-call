@@ -1,0 +1,12 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "biggerreactors:blutonium_ingot"
+  },
+  "result": {
+    "primary": {
+      "item": "biggerreactors:blutonium_dust"
+    }
+  },
+  "turns": 4
+}

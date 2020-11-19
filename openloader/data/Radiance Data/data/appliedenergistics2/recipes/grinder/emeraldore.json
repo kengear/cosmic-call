@@ -1,0 +1,17 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "minecraft:emerald_ore"
+  },
+  "result": {
+    "primary": {
+      "item": "minecraft:emerald"
+    },
+    "optional": [
+      {
+        "item": "minecraft:emerald"
+      }
+    ]
+  },
+  "turns": 8
+}

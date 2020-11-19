@@ -1,0 +1,18 @@
+{
+  "type": "immersiveengineering:sawmill",
+  "secondaries": [
+    {
+      "output": {
+        "item": "thermal:sawdust"
+      },
+      "stripping": false
+    }
+  ],
+  "result": {
+    "item": "biomesoplenty:jacaranda_planks"
+  },
+  "input": {
+    "item": "biomesoplenty:jacaranda_door"
+  },
+  "energy": 800
+}

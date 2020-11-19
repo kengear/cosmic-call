@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "ingredient": {
+      "item": "thermal:lead_ore"
+    }
+  },
+  "output": {
+    "item": "thermal:lead_dust",
+    "count": 2
+  }
+}

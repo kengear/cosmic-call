@@ -1,0 +1,12 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "thermal:copper_ingot"
+  },
+  "result": {
+    "primary": {
+      "item": "thermal:copper_dust"
+    }
+  },
+  "turns": 4
+}

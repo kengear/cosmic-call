@@ -1,0 +1,12 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "primary": {
+      "item": "mekanism:dust_netherite"
+    }
+  },
+  "turns": 4
+}

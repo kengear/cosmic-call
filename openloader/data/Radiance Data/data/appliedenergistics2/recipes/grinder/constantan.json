@@ -1,0 +1,12 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "thermal:constantan_ingot"
+  },
+  "result": {
+    "primary": {
+      "item": "thermal:constantan_dust"
+    }
+  },
+  "turns": 4
+}

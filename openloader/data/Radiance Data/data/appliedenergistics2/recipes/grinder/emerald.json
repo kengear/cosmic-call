@@ -1,0 +1,12 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "minecraft:emerald"
+  },
+  "result": {
+    "primary": {
+      "item": "thermal:emerald_dust"
+    }
+  },
+  "turns": 4
+}

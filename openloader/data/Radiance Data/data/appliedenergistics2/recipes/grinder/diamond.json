@@ -1,0 +1,12 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "minecraft:diamond"
+  },
+  "result": {
+    "primary": {
+      "item": "thermal:diamond_dust"
+    }
+  },
+  "turns": 4
+}

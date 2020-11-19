@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:crusher",
+  "secondaries": [
+    {
+      "chance": 0.5,
+      "output": {
+        "tag": "forge:dusts/saltpeter"
+      }
+    }
+  ],
+  "result": {
+    "item": "biomesoplenty:white_sand",
+    "count": 2
+  },
+  "input": {
+    "item": "biomesoplenty:chiseled_white_sandstone"
+  },
+  "energy": 3200
+}

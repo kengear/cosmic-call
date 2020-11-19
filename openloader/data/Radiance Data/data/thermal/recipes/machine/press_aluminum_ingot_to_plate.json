@@ -1,0 +1,11 @@
+{
+  "type": "thermal:press",
+  "ingredient": {
+    "item": "immersiveengineering:ingot_aluminum"
+  },
+  "result": [
+    {
+      "item": "immersiveengineering:plate_aluminum"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:sawmill",
+  "secondaries": [
+    {
+      "output": {
+        "item": "thermal:sawdust"
+      },
+      "stripping": false
+    }
+  ],
+  "result": {
+    "item": "biomesoplenty:palm_planks",
+    "count": 6
+  },
+  "input": {
+    "item": "biomesoplenty:stripped_palm_log"
+  },
+  "energy": 800
+}

@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "amount": 8,
+    "ingredient": {
+      "item": "thermal:sawdust"
+    }
+  },
+  "output": {
+    "item": "mekanism:dust_charcoal"
+  }
+}

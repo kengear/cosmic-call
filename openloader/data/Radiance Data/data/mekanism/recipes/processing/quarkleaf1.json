@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "item": "quark:blue_blossom_leaves"
+    }
+  },
+  "output": {
+    "item": "mekanism:bio_fuel",
+    "count": 2
+  }
+}

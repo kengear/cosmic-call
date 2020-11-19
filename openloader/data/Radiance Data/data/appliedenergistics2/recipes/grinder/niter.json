@@ -1,0 +1,12 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "thermal:niter"
+  },
+  "result": {
+    "primary": {
+      "item": "thermal:niter_dust"
+    }
+  },
+  "turns": 4
+}

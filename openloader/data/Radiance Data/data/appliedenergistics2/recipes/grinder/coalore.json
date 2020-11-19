@@ -1,0 +1,17 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "minecraft:coal_ore"
+  },
+  "result": {
+    "primary": {
+      "item": "minecraft:coal"
+    },
+    "optional": [
+      {
+        "item": "minecraft:coal"
+      }
+    ]
+  },
+  "turns": 8
+}

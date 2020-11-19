@@ -1,0 +1,33 @@
+{
+  "type": "immersiveengineering:sawmill",
+  "secondaries": [
+    {
+      "output": {
+        "item": "thermal:sawdust"
+      },
+      "stripping": true
+    },
+    {
+      "output": {
+        "item": "thermal:sawdust"
+      },
+      "stripping": false
+    }
+  ],
+  "result": {
+    "item": "botania:livingwood_planks",
+    "count": 6
+  },
+  "energy": 1600,
+  "input": [
+    {
+      "item": "botania:livingwood"
+    },
+    {
+      "item": "botania:livingwood"
+    }
+  ],
+  "stripped": {
+    "item": "botania:livingwood"
+  }
+}

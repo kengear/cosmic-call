@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "ingredient": {
+      "item": "mekanism:uranium_ore"
+    }
+  },
+  "output": {
+    "item": "mekanism:dust_uranium",
+    "count": 2
+  }
+}

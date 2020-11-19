@@ -1,0 +1,12 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "thermal:lumium_ingot"
+  },
+  "result": {
+    "primary": {
+      "item": "thermal:lumium_dust"
+    }
+  },
+  "turns": 4
+}

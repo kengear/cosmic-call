@@ -1,0 +1,18 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "tag": "forge:ores/uranium"
+  },
+  "result": {
+    "primary": {
+      "item": "mekanism:dust_uranium"
+    },
+    "optional": [
+      {
+        "item": "mekanism:dust_uranium"
+      }
+    ]
+  },
+  "turns": 8
+}
+}

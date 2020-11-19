@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "item": "biomesoplenty:flesh"
+  },
+  "result": [
+    {
+      "fluid": "industrialforegoing:meat",
+      "amount": 100
+    }
+  ],
+  "energy": 10000
+}
