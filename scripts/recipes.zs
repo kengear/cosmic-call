@@ -3,7 +3,6 @@ craftingTable.removeRecipe(<item:thermal:signalum_dust>);
 craftingTable.removeRecipe(<item:thermal:enderium_dust>);
 craftingTable.removeRecipe(<item:thermal:lumium_dust>);
 
-// drenched cookie
 
 //unification
 craftingTable.removeRecipe(<item:thermal:radish_block>);
@@ -169,7 +168,6 @@ craftingTable.removeRecipe(<item:mekanism:block_lead>);
 craftingTable.removeRecipe(<item:mekanism:block_copper>);
 craftingTable.removeRecipe(<item:mekanism:block_tin>);
 craftingTable.removeRecipe(<item:darkutils:dark_glass>);
-
 craftingTable.removeRecipe(<item:immersiveengineering:storage_steel>);
 craftingTable.removeRecipe(<item:immersiveengineering:storage_electrum>);
 craftingTable.removeRecipe(<item:immersiveengineering:storage_constantan>);
@@ -253,14 +251,14 @@ furnace.removeRecipe(<item:biggerreactors:yellorium_ingot>);
 furnace.removeRecipe(<item:immersiveengineering:ingot_uranium>);
 furnace.removeRecipe(<item:immersiveengineering:ingot_steel>);
 furnace.removeRecipe(<item:mekanism:ingot_bronze>);
-furnace.removeRecipe(<item:appliedenergistics2:silicon>);
-furnace.removeRecipe(<item:refinedstorage:silicon>);
-furnace.addRecipe("silicon", <item:refinedstorage:silicon>, <tag:appliedenergistics2:dusts/quartz>, 0.1, 200);
-craftingTable.removeRecipe(<item:appliedenergistics2:wireless_booster>);
-craftingTable.addShaped("wireless_booster", <item:appliedenergistics2:wireless_booster> * 2,
-[[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>],
-[<item:appliedenergistics2:fluix_dust>, <tag:appliedenergistics2:crystals/certus>, <item:thermal:ender_pearl_dust>],
-[<tag:forge:ingots/iron>, <tag:forge:ingots/iron>, <tag:forge:ingots/iron>]]);
+// furnace.removeRecipe(<item:appliedenergistics2:silicon>);
+// furnace.removeRecipe(<item:refinedstorage:silicon>);
+// furnace.addRecipe("silicon", <item:refinedstorage:silicon>, <tag:appliedenergistics2:dusts/quartz>, 0.1, 200);
+// craftingTable.removeRecipe(<item:appliedenergistics2:wireless_booster>);
+// craftingTable.addShaped("wireless_booster", <item:appliedenergistics2:wireless_booster> * 2,
+// [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>],
+// [<item:appliedenergistics2:fluix_dust>, <tag:appliedenergistics2:crystals/certus>, <item:thermal:ender_pearl_dust>],
+// [<tag:forge:ingots/iron>, <tag:forge:ingots/iron>, <tag:forge:ingots/iron>]]);
 
 
 
@@ -308,8 +306,7 @@ craftingTable.addShaped("diamond_horse_armor", <item:minecraft:diamond_horse_arm
 [[<item:minecraft:diamond>, <item:minecraft:air>, <item:minecraft:diamond>],
 [<item:minecraft:leather>, <tag:forge:wool>, <item:minecraft:leather>],
 [<item:minecraft:diamond>, <item:minecraft:air>, <item:minecraft:diamond>]]);
-
-
+craftingTable.removeRecipe(<item:cyclic:uncrafter>);
 
 
 

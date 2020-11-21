@@ -1,0 +1,9 @@
+
+["Mana to Fluid (Mana -> Antecedent, Fluid -> Consequent)"]
+	#The antecedent of the mana to fluid ratio, this ratio WILL be simplified, so if you set this to 1000 and the other to 100 it will act as a 10 : 1 ratio
+	#Range: 1.0 ~ 1.7976931348623157E308
+	ratio_antecedent = 1.0
+	#The consequent of the mana to fluid ratio, this ratio WILL be simplified, so if you set this to 1000 and the other to 100 it will act as a 1 : 10 ratio
+	#Range: 1.0 ~ 1.7976931348623157E308
+	ratio_consequent = 1.0
+
