@@ -108,11 +108,6 @@ customization {
 }
 
 customization {
-  identifier = %id=376346%
-  action = hidebutton
-}
-
-customization {
   orientation = top-left
   buttonaction = openlink
   x = 327
@@ -120,7 +115,7 @@ customization {
   action = addbutton
   y = 246
   label = Discord
-  value = https://discord.gg/mTwRujWH
+  value = https://discord.com/invite/CP5PrC7
   height = 20
 }
 

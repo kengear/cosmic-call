@@ -1,0 +1,40 @@
+{
+  "type": "immersiveengineering:arc_furnace",
+  "results": [
+    {
+      "count": 4,
+      "base_ingredient": {
+        "item": "refinedstorage:quartz_enriched_iron"
+      }
+    }
+  ],
+  "additives": [
+    {
+      "tag": "forge:dusts/quartz"
+    }
+  ],
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ingots/iron",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    },
+    {
+      "value": {
+        "tag": "forge:dusts/quartz",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "input": {
+    "count": 3,
+    "base_ingredient": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "time": 100,
+  "energy": 51200
+}

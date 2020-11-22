@@ -473,15 +473,6 @@
 			spawnRf = 20000
 			item3 = "100.0:<living>"
 
-	[mobdata.botania]
-
-		[mobdata.botania.doppleganger]
-			item2 = "1.0:{'item':'minecraft:bedrock'}"
-			item1 = "1.0:{'item':'minecraft:bedrock'}"
-			#Range: > 0
-			spawnRf = 50000
-			item3 = "1.0:{'item':'minecraft:bedrock'}"
-
 	[mobdata.aquaculture]
 
 		[mobdata.aquaculture.tuna]
@@ -708,6 +699,15 @@
 			spawnRf = 50000
 			item3 = "1.0:{'item':'minecraft:bedrock'}"
 
+	[mobdata.botania]
+
+		[mobdata.botania.doppleganger]
+			item2 = "1.0:{'item':'minecraft:bedrock'}"
+			item1 = "1.0:{'item':'minecraft:bedrock'}"
+			#Range: > 0
+			spawnRf = 50000
+			item3 = "1.0:{'item':'minecraft:bedrock'}"
+
 	[mobdata.conjurer_illager]
 
 		[mobdata.conjurer_illager.conjurer]
@@ -884,6 +884,15 @@
 			item3 = "1.0:{'item':'minecraft:bedrock'}"
 
 		[mobdata.mekanismadditions.baby_skeleton]
+			item2 = "1.0:{'item':'minecraft:bedrock'}"
+			item1 = "1.0:{'item':'minecraft:bedrock'}"
+			#Range: > 0
+			spawnRf = 50000
+			item3 = "1.0:{'item':'minecraft:bedrock'}"
+
+	[mobdata.supplementaries]
+
+		[mobdata.supplementaries.firefly]
 			item2 = "1.0:{'item':'minecraft:bedrock'}"
 			item1 = "1.0:{'item':'minecraft:bedrock'}"
 			#Range: > 0

@@ -13,6 +13,7 @@ craftingTable.removeRecipe(<item:thermal:peanut_block>);
 craftingTable.removeRecipe(<item:thermal:strawberry_block>);
 craftingTable.removeRecipe(<item:immersiveengineering:dust_constantan>);
 craftingTable.removeRecipe(<item:biggerreactors:yellorium_dust>);
+craftingTable.removeRecipe(<item:biggerreactors:yellorium_block>);
 craftingTable.removeRecipe(<item:biggerreactors:cyanite_dust>);
 craftingTable.removeRecipe(<item:immersiveengineering:sawdust>);
 craftingTable.addShaped("sawdust", <item:immersiveengineering:sawdust>,
@@ -259,7 +260,9 @@ furnace.removeRecipe(<item:mekanism:ingot_bronze>);
 // [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>],
 // [<item:appliedenergistics2:fluix_dust>, <tag:appliedenergistics2:crystals/certus>, <item:thermal:ender_pearl_dust>],
 // [<tag:forge:ingots/iron>, <tag:forge:ingots/iron>, <tag:forge:ingots/iron>]]);
-
+craftingTable.removeRecipe(<item:refinedstorage:quartz_enriched_iron>);
+craftingTable.addShapeless("quartz_enriched_iron", <item:refinedstorage:quartz_enriched_iron> * 9, 
+[<item:refinedstorage:quartz_enriched_iron_block>]);
 
 
 
@@ -322,12 +325,20 @@ craftingTable.removeRecipe(<item:cyclic:uncrafter>);
 
 
 
-
-
+craftingTable.removeRecipe(<item:extendedcrafting:basic_component>);
+craftingTable.removeRecipe(<item:extendedcrafting:advanced_component>);
+craftingTable.removeRecipe(<item:extendedcrafting:elite_component>);
+craftingTable.removeRecipe(<item:extendedcrafting:redstone_component>);
+craftingTable.removeRecipe(<item:extendedcrafting:ender_component>);
+craftingTable.removeRecipe(<item:extendedcrafting:enhanced_ender_component>);
+craftingTable.removeRecipe(<item:extendedcrafting:crystaltine_component>);
+craftingTable.removeRecipe(<item:extendedcrafting:crystaltine_ingot>);
+craftingTable.removeRecipe(<item:extendedcrafting:crystaltine_nugget>);
+craftingTable.removeRecipe(<item:extendedcrafting:crystaltine_block>);
+craftingTable.removeRecipe(<item:extendedcrafting:crystaltine_catalyst>);
 craftingTable.removeRecipe(<item:extendedcrafting:basic_catalyst>);
 craftingTable.removeRecipe(<item:extendedcrafting:advanced_catalyst>);
 craftingTable.removeRecipe(<item:extendedcrafting:elite_catalyst>);
-craftingTable.removeRecipe(<item:extendedcrafting:ultimate_catalyst>);
 craftingTable.removeRecipe(<item:extendedcrafting:redstone_catalyst>);
 craftingTable.removeRecipe(<item:extendedcrafting:ender_catalyst>);
 craftingTable.removeRecipe(<item:extendedcrafting:enhanced_ender_catalyst>);
@@ -337,6 +348,44 @@ craftingTable.removeRecipe(<item:extendedcrafting:advanced_table>);
 craftingTable.removeRecipe(<item:extendedcrafting:advanced_auto_table>);
 craftingTable.removeRecipe(<item:extendedcrafting:elite_table>);
 craftingTable.removeRecipe(<item:extendedcrafting:elite_auto_table>);
+craftingTable.removeRecipe(<item:extendedcrafting:the_ultimate_component>);
+craftingTable.removeRecipe(<item:extendedcrafting:the_ultimate_catalyst>);
+craftingTable.removeRecipe(<item:extendedcrafting:black_iron_slate>);
+
+craftingTable.removeRecipe(<item:extendedcrafting:ultimate_component>);
+craftingTable.addShaped("ultimate_component", <item:extendedcrafting:ultimate_component>,
+[[<item:extendedcrafting:ender_star_block>, <item:extendedcrafting:luminessence_block>, <item:extendedcrafting:ender_star_block>],
+[<item:extendedcrafting:luminessence_block>, <item:extendedcrafting:black_iron_block>, <item:extendedcrafting:luminessence_block>],
+[<item:extendedcrafting:ender_star_block>, <item:extendedcrafting:luminessence_block>, <item:extendedcrafting:ender_star_block>]]);
+craftingTable.removeRecipe(<item:extendedcrafting:ultimate_catalyst>);
+craftingTable.addShaped("ultimate_catalyst", <item:extendedcrafting:ultimate_catalyst>,
+[[<item:extendedcrafting:ultimate_component>, <item:extendedcrafting:ultimate_component>, <item:extendedcrafting:ultimate_component>],
+[<item:extendedcrafting:ultimate_component>, <item:extendedcrafting:ultimate_component>, <item:extendedcrafting:ultimate_component>],
+[<item:extendedcrafting:ultimate_component>, <item:extendedcrafting:ultimate_component>, <item:extendedcrafting:ultimate_component>]]);
+craftingTable.removeRecipe(<item:extendedcrafting:ultimate_table>);
+craftingTable.addShaped("ultimate_table", <item:extendedcrafting:ultimate_table>, 
+[[<item:extendedcrafting:ultimate_catalyst>, <item:extendedcrafting:ultimate_catalyst>, <item:extendedcrafting:ultimate_catalyst>],
+[<item:extendedcrafting:ultimate_catalyst>, <item:extendedcrafting:frame>, <item:extendedcrafting:ultimate_catalyst>],
+[<item:extendedcrafting:ultimate_catalyst>, <item:extendedcrafting:ultimate_catalyst>, <item:extendedcrafting:ultimate_catalyst>]]);
+craftingTable.removeRecipe(<item:extendedcrafting:frame>);
+craftingTable.addShaped("black_iron_frame", <item:extendedcrafting:frame>, 
+[[<item:extendedcrafting:black_iron_block>, <tag:thermal:glass/hardened>, <item:extendedcrafting:black_iron_block>],
+[<tag:thermal:glass/hardened>, <item:extendedcrafting:ultimate_catalyst>, <tag:thermal:glass/hardened>],
+[<item:extendedcrafting:black_iron_block>, <tag:thermal:glass/hardened>, <item:extendedcrafting:black_iron_block>]]);
+craftingTable.addShaped("ender_star", <item:extendedcrafting:ender_star>, 
+[[<item:thermal:enderium_block>, <item:botania:ender_air_bottle>, <item:thermal:enderium_block>],
+[<item:rftoolsbase:infused_enderpearl>, <item:minecraft:nether_star>, <item:contenttweaker:infused_mana_pearl>],
+[<item:thermal:enderium_block>, <item:botania:ender_air_bottle>, <item:thermal:enderium_block>]]);
+craftingTable.addShaped("infused_mana_pearl", <item:contenttweaker:infused_mana_pearl>, 
+[[<item:rftoolsbase:dimensionalshard>, <item:rftoolsbase:dimensionalshard>, <item:rftoolsbase:dimensionalshard>],
+[<item:rftoolsbase:dimensionalshard>, <item:botania:mana_pearl>, <item:rftoolsbase:dimensionalshard>],
+[<item:rftoolsbase:dimensionalshard>, <item:rftoolsbase:dimensionalshard>, <item:rftoolsbase:dimensionalshard>]]);
+//black iron made in a dissolution chamber with resonant ender?
+
+
+
+
+
 
 
 	
