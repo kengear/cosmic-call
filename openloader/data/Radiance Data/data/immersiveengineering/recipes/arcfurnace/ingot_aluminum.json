@@ -7,7 +7,7 @@
   ],
   "additives": [],
   "input": {
-    "item": "thermal:copper_dust"
+    "item": "immersiveengineering:ingot_aluminum"
   },
   "time": 100,
   "energy": 20000

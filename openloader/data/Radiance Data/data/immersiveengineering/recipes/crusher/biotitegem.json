@@ -1,0 +1,12 @@
+{
+  "type": "immersiveengineering:crusher",
+  "secondaries": [],
+  "result": {
+    "item": "jaopca:dusts.biotite",
+    "count": 1
+  },
+  "input": {
+    "item": "quark:biotite"
+  },
+  "energy": 1000
+}

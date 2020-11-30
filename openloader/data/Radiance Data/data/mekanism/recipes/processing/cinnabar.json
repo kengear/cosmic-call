@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "ingredient": {
+      "item": "thermal:cinnabar_ore"
+    }
+  },
+  "output": {
+    "item": "thermal:cinnabar",
+    "count": 2
+  }
+}

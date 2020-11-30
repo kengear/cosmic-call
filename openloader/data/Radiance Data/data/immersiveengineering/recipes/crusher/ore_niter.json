@@ -2,7 +2,7 @@
   "type": "immersiveengineering:crusher",
   "secondaries": [],
   "result": {
-    "count": 2,
+    "count": 6,
     "base_ingredient": {
       "tag": "forge:gems/niter"
     }

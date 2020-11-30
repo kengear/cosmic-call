@@ -213,7 +213,7 @@
 	"Easy Transfering" = true
 
 	[management.inventory_sorting]
-		"Enable Chests" = false
+		"Enable Chests" = true
 		"Enable Player Inventory In Chests" = true
 		"Enable Player Inventory" = true
 
@@ -1449,7 +1449,7 @@
 	"Improved Tooltips" = true
 	"Improved Mount Hud" = true
 	"Usage Ticker" = true
-	"Chest Searching" = true
+	"Chest Searching" = false
 
 	[client.usage_ticker]
 		#Switch the armor display to the off hand side and the hand display to the main hand side

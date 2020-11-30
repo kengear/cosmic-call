@@ -1,0 +1,156 @@
+
+#General configurations for More Plates
+[General]
+	#Hammer Durability
+	#Range: > 1
+	hammer_durability = 150
+	#Set this to false to disable all crafting recipes for Gears
+	enable_gear = true
+	#Set this to false to disable all crafting recipes for Plates
+	enable_plate = true
+	#Set this to false to disable all crafting recipes for Rods
+	enable_rod = true
+
+#Item configurations for More Plates
+[Items]
+	#EnableBrick
+	register_brick = true
+	#EnableCharcoal
+	register_charcoal = true
+	#EnableCoal
+	register_coal = true
+	#EnableDiamond
+	register_diamond = true
+	#EnableEmerald
+	register_emerald = true
+	#EnableFlint
+	register_flint = true
+	#EnableGlowstone
+	register_glowstone = true
+	#EnableGold
+	register_gold = true
+	#EnableIron
+	register_iron = true
+	#EnableLapis
+	register_lapis = true
+	#EnableNether Brick
+	register_nether_brick = true
+	#EnableNetherite
+	register_netherite = true
+	#EnableQuartz
+	register_quartz = true
+	#EnablePaper
+	register_paper = true
+	#EnablePrismarine
+	register_prismarine = true
+	#EnableRedstone
+	register_redstone = true
+	#EnableAll The Modium
+	register_all_the_modium = true
+	#EnableUnobtainium All The Modium Alloy
+	register_unobtainium_all_the_modium_alloy = true
+	#EnableUnobtainium
+	register_unobtainium = true
+	#EnableVibranium All The Modium Alloy
+	register_vibranium_all_the_modium_alloy = true
+	#EnableVibranium
+	register_vibranium = true
+	#EnableVibranium Unobtainium Alloy
+	register_vibranium_unobtainium_alloy = true
+	#EnableCertus Quartz
+	register_certus_quartz = true
+	#EnableFluix
+	register_fluix = true
+	#EnableAquamarine
+	register_aquamarine = true
+	#EnableResonating Gem
+	register_resonating_gem = true
+	#EnableStarmetal
+	register_starmetal = true
+	#EnableBrass
+	register_brass = true
+	#EnableBlue Alloy
+	register_blue_alloy = true
+	#EnablePurple Alloy
+	register_purple_alloy = true
+	#EnableRed Alloy
+	register_red_alloy = true
+	#EnableTungsten
+	register_tungsten = true
+	#EnableTungsten Carbide
+	register_tungsten_carbide = true
+	#EnableZinc
+	register_zinc = true
+	#EnableElementium
+	register_elementium = true
+	#EnableGaia Spirit
+	register_gaia_spirit = true
+	#EnableManasteel
+	register_manasteel = true
+	#EnableTerrasteel
+	register_terrasteel = true
+	#EnableBronze
+	register_bronze = true
+	#EnableConstantan
+	register_constantan = true
+	#EnableCopper
+	register_copper = true
+	#EnableElectrum
+	register_electrum = true
+	#EnableEnderium
+	register_enderium = true
+	#EnableInvar
+	register_invar = true
+	#EnableLead
+	register_lead = true
+	#EnableLumium
+	register_lumium = true
+	#EnableNickel
+	register_nickel = true
+	#EnablePlatinum
+	register_platinum = true
+	#EnableSignalum
+	register_signalum = true
+	#EnableSilver
+	register_silver = true
+	#EnableTin
+	register_tin = true
+	#EnableBlack Iron
+	register_black_iron = true
+	#EnableCrystaltine
+	register_crystaltine = true
+	#EnableEnder
+	register_ender = true
+	#EnableEnhanced Ender
+	register_enhanced_ender = true
+	#EnableRedstone Ingot
+	register_redstone_ingot = true
+	#EnableThe Ultimate
+	register_the_ultimate = true
+	#EnableOsmium
+	register_osmium = true
+	#EnableRefined Glowstone
+	register_refined_glowstone = true
+	#EnableRefined Obsidian
+	register_refined_obsidian = true
+	#EnableInsanium
+	register_insanium = true
+	#EnableEnergized Steel
+	register_energized_steel = true
+	#EnableImperium
+	register_imperium = true
+	#EnableInferium
+	register_inferium = true
+	#EnableProsperity
+	register_prosperity = true
+	#EnablePrudentium
+	register_prudentium = true
+	#EnableSoulium
+	register_soulium = true
+	#EnableSupremium
+	register_supremium = true
+	#EnableTertium
+	register_tertium = true
+	#EnableQuartz Enriched Iron
+	register_quartz_enriched_iron = true
+

@@ -719,6 +719,13 @@
 
 	[mobdata.charm]
 
+		[mobdata.charm.moobloom]
+			item2 = "1.0:{'item':'minecraft:bedrock'}"
+			item1 = "1.0:{'item':'minecraft:bedrock'}"
+			#Range: > 0
+			spawnRf = 50000
+			item3 = "1.0:{'item':'minecraft:bedrock'}"
+
 		[mobdata.charm.coral_squid]
 			item2 = "1.0:{'item':'minecraft:bedrock'}"
 			item1 = "1.0:{'item':'minecraft:bedrock'}"
@@ -884,15 +891,6 @@
 			item3 = "1.0:{'item':'minecraft:bedrock'}"
 
 		[mobdata.mekanismadditions.baby_skeleton]
-			item2 = "1.0:{'item':'minecraft:bedrock'}"
-			item1 = "1.0:{'item':'minecraft:bedrock'}"
-			#Range: > 0
-			spawnRf = 50000
-			item3 = "1.0:{'item':'minecraft:bedrock'}"
-
-	[mobdata.supplementaries]
-
-		[mobdata.supplementaries.firefly]
 			item2 = "1.0:{'item':'minecraft:bedrock'}"
 			item1 = "1.0:{'item':'minecraft:bedrock'}"
 			#Range: > 0

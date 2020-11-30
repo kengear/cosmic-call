@@ -1,0 +1,12 @@
+{
+  "type": "immersiveengineering:crusher",
+  "secondaries": [],
+  "result": {
+    "item": "bloodmagic:sand_hellforged",
+    "count": 1
+  },
+  "input": {
+    "item": "bloodmagic:ingot_hellforged"
+  },
+  "energy": 1600
+}

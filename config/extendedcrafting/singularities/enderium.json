@@ -1,0 +1,11 @@
+{
+  "name": "Enderium",
+  "colors": [
+    "011D36",
+    "011D36"
+  ],
+  "ingredient": {
+    "item": "thermal:enderium_ingot"
+  },
+  "inUltimateSingularity": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Ludicrite",
+  "colors": [
+    "EE33E3",
+    "EE33E3"
+  ],
+  "ingredient": {
+    "item": "biggerreactors:ludicrite_ingot"
+  },
+  "inUltimateSingularity": true
+}
