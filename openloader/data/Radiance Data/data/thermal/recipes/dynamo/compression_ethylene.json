@@ -1,8 +1,0 @@
-{
-  "type": "thermal:compression_fuel",
-  "ingredient": {
-    "fluid": "mekanism:ethylene",
-    "amount": 1000
-  },
-  "energy": 225000
-}

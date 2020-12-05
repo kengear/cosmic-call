@@ -1,8 +1,0 @@
-{
-  "type": "thermal:compression_fuel",
-  "ingredient": {
-    "fluid": "mekanismgenerators:bioethanol",
-    "amount": 1000
-  },
-  "energy": 50000
-}

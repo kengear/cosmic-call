@@ -1,10 +1,7 @@
 {
-    "item.contenttweaker.dye_powder": "Dye Powder",
-    "item.contenttweaker.synthetic_mana_agglomerate": "Synthetic Mana Agglomerate",
-    "item.contenttweaker.infused_mana_pearl": "Infused Mana Pearl",
     "item.contenttweaker.redstone_transmission_coil": "Redstone Transmission Coil",
     "item.contenttweaker.redstone_conductance_coil": "Redstone Conductance Coil",
     "item.contenttweaker.compressed_sawdust": "Compressed Sawdust",
     "item.contenttweaker.tool_casing": "Tool Casing",
-    "item.contenttweaker.mana_dust": "Mana Dust"
+    "item.contenttweaker.bone_ash": "Bone Ash"
 }

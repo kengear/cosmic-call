@@ -1,8 +1,0 @@
-{
-  "type": "thermal:compression_fuel",
-  "ingredient": {
-    "fluid": "pneumaticcraft:vegetable_oil",
-    "amount": 1000
-  },
-  "energy": 100000
-}

@@ -1,8 +1,0 @@
-{
-  "type": "thermal:compression_fuel",
-  "ingredient": {
-    "fluid": "immersiveengineering:biodiesel",
-    "amount": 1000
-  },
-  "energy": 500000
-}
