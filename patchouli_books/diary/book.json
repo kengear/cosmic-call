@@ -1,0 +1,19 @@
+{
+	"name": "Diary",
+	"landing_text": "",
+	"version": 1,
+	"book_texture":"patchouli:textures/gui/book_gray.png",
+	"model":"radiance:book",
+	"text_color":"000000",
+	"header_color":"333333",
+	"nameplate_color":"FFDD00",
+	"link_color":"0000EE",
+	"link_hover_color":"8800EE",
+	"progress_bar_color":"FFFF55",
+	"progress_bar_background":"DDDDDD",
+	"show_progress":false,
+	"creative_tab":"misc",
+	"pause_game":true,
+	"show_toasts":false,
+	"use_blocky_font":false
+}

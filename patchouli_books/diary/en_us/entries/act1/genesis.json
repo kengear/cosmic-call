@@ -1,0 +1,11 @@
+{
+    "name": "Genesis",
+    "icon": "",
+    "category": "patchouli:act1",
+    "pages": [
+        {
+            "type": "text",
+            "text": "I find myself, amnesiac, in an unknown place."
+        }
+    ]
+}

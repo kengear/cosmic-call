@@ -1,0 +1,11 @@
+{
+    "name": "Emergence",
+    "icon": "minecraft:cobblestone",
+    "category": "patchouli:act1",
+    "pages": [
+        {
+            "type": "text",
+            "text": "I should gather wood to create a primitive hut."
+        }
+    ]
+}
