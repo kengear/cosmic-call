@@ -74,16 +74,16 @@
 	[oregen.Amethyst_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 1
+		oreChances = 3
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		minY = 10
+		minY = 0
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		maxY = 20
+		maxY = 15
 		#Max size of the vein.
 		#Range: 1 ~ 256
-		veinSize = 2
+		veinSize = 1
 		#The dimensions that this ore should spawn in as a list (default ["minecraft:overworld"])
 		dimensions = ["minecraft:overworld"]
 

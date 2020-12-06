@@ -3,5 +3,7 @@
     "item.contenttweaker.redstone_conductance_coil": "Redstone Conductance Coil",
     "item.contenttweaker.compressed_sawdust": "Compressed Sawdust",
     "item.contenttweaker.tool_casing": "Tool Casing",
-    "item.contenttweaker.bone_ash": "Bone Ash"
+    "item.contenttweaker.bone_ash": "Bone Ash",
+    "item.contenttweaker.base_integral_components": "Base Integral Components",
+    "item.contenttweaker.augment_base": "Augment Base"
 }

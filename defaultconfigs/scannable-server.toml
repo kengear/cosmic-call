@@ -41,10 +41,10 @@
 	#value by 0.25, and the block scanner multiplies it by 0.5.
 	#Range modules will boost the range by half this value.
 	#Range: 16 ~ 128
-	baseScanRadius = 32
+	baseScanRadius = 64
 	#How long the results from a scan should remain visible, in milliseconds.
 	#Range: 1000 ~ 300000
-	scanStayDuration = 8000
+	scanStayDuration = 4000
 
 [blocks]
 	#Registry names of blocks that should be ignored.
@@ -57,11 +57,11 @@
 
 [ores]
 	#Registry names of blocks considered 'common ores', requiring the common ore scanner module.
-	commonOreBlocks = ["minecraft:clay"]
+	commonOreBlocks = ["minecraft:clay", "thermal:apatite_ore", "thermal:sulfur_ore", "thermal:cinnabar_ore", "thermal:niter_ore", "thermal:copper_ore", "thermal:tin_ore"]
 	#Block tags of blocks considered 'common ores', requiring the common ore scanner module.
 	commonOreBlockTags = ["forge:ores/iron", "forge:ores/redstone", "forge:ores/coal", "forge:ores/quartz"]
 	#Registry names of blocks considered 'rare ores', requiring the common ore scanner module.
-	rareOreBlocks = ["minecraft:glowstone"]
+	rareOreBlocks = ["minecraft:glowstone", "thermal:silver_ore", "thermal:lead_ore", "thermal:nickel_ore", "mysticalworld:amethyst_ore", "mysticalworld:quicksilver_ore"]
 	#Block tags of blocks considered 'rare ores', requiring the common ore scanner module.
 	#Any block with the forge:ores tag is implicitly in this list, unless the block also
 	#matches an ignored or common ore block tag, or is an ignored or common block.
