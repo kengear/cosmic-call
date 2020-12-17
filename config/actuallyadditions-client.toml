@@ -1,6 +1,0 @@
-
-#Actually Additions General Config
-[general]
-	#Shows advanced item info when holding control on every item
-	"Advanced Info" = true
-
