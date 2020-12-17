@@ -1,6 +1,8 @@
 //mysticalworld
 
 //unification
+
+///disable content that conflicts with other mods
 craftingTable.removeByRegex("mysticalworld:.*copper.*");
 furnace.removeByRegex("mysticalworld:.*copper.*");
 <recipetype:blasting>.removeByRegex("mysticalworld:.*copper.*");
@@ -259,6 +261,7 @@ mods.jei.JEI.hideItem(<item:mysticalworld:iron_dust>);
 
 //other
 
+///thatch consistency fix
 craftingTable.removeByName("minecraft:thatch_from_simple_thatch");
 craftingTable.removeByName("minecraft:simple_thatch_from_thatch");
 craftingTable.removeByName("mysticalworld:thatch");
@@ -266,6 +269,7 @@ craftingTable.addShaped("thatch", <item:mysticalworld:thatch> *32,
 [[<item:quark:thatch>, <item:quark:thatch>],
 [<item:quark:thatch>, <item:quark:thatch>]]);
 
+///food nerf
 <item:mysticalworld:cooked_venison>.food = <item:mysticalworld:cooked_venison>.food.setHealing(4);
 <item:mysticalworld:cooked_venison>.food = <item:mysticalworld:cooked_venison>.food.setSaturation(0.6);
 <item:mysticalworld:cooked_beetroot>.food = <item:mysticalworld:cooked_beetroot>.food.setHealing(2);

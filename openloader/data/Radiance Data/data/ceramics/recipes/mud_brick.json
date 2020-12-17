@@ -1,9 +1,9 @@
 {
   "type": "ceramics:kiln",
   "ingredient": {
-    "item": "biomesoplenty:mud_ball"
+    "item": "contenttweaker:undried_mud_brick"
   },
-  "result": "biomesoplenty:mud_brick",
+  "result": "contenttweaker:mud_brick",
   "experience": 0.3,
   "cookingtime": 100
 }

@@ -1,0 +1,16 @@
+
+#Item Config Options
+[items]
+	#By default, the Drill can mine certain blocks. If there is one that it can't mine, but should be able to, put its REGISTRY NAME here. These are the actual registered Item Names, the ones you use, for example, when using the /give Command.
+	"Drill special block whitelist" = ["examplemod:block_one"]
+	#The max amount of Crystal Flux stored in the Teleport Staff
+	#Range: 0 ~ 1000000
+	"Teleport Staff Max Energy" = 250000
+	#The base cost of the Teleport Staff (this is used to calculate the cost per distances as well)
+	#Don't assign this value higher than the Teleport Staffs max energy!
+	#Range: 0 ~ 100000
+	"Teleport Staff Base Cost" = 200
+	#The max energy amount for the drill
+	#Range: 0 ~ 1000000
+	"Drill Max Energy" = 250000
+

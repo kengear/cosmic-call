@@ -3,7 +3,24 @@
     "item.contenttweaker.redstone_conductance_coil": "Redstone Conductance Coil",
     "item.contenttweaker.compressed_sawdust": "Compressed Sawdust",
     "item.contenttweaker.tool_casing": "Tool Casing",
-    "item.contenttweaker.bone_ash": "Bone Ash",
     "item.contenttweaker.base_integral_components": "Base Integral Components",
-    "item.contenttweaker.augment_base": "Augment Base"
+    "item.contenttweaker.augment_base": "Augment Base",
+    "item.contenttweaker.device_frame": "Device Frame",
+    "item.contenttweaker.phyto_gro": "Phyto-Gro",
+    "item.contenttweaker.wood_chips": "Wood Chips",
+    "block.contenttweaker.device_frame": "Device Frame",
+    "block.contenttweaker.platinum_block": "Platinum Block",
+    "item.contenttweaker.platinum_ingot": "Platinum Ingot",
+    "item.contenttweaker.platinum_nugget": "Platinum Nugget",
+    "item.contenttweaker.platinum_coin": "Platinum Coin",
+    "item.contenttweaker.platinum_dust": "Platinum Dust",
+
+    "item.contenttweaker.bone_ash": "Bone Ash",
+    "item.contenttweaker.straw": "Straw",
+    "item.contenttweaker.undried_mud_brick": "Undried Mud Brick",
+    "item.contenttweaker.undried_clay_brick": "Undried Clay Brick",
+    "item.contenttweaker.clay_batter": "Clay Batter",
+    "item.contenttweaker.mud_batter": "Mud Batter",
+    "item.contenttweaker.stone_brick_mold": "Stone Brick Mold",
+    "item.contenttweaker.mud_brick": "Mud Brick"
 }
