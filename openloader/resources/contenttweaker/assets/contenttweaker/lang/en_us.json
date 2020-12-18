@@ -12,7 +12,6 @@
     "block.contenttweaker.platinum_block": "Platinum Block",
     "item.contenttweaker.platinum_ingot": "Platinum Ingot",
     "item.contenttweaker.platinum_nugget": "Platinum Nugget",
-    "item.contenttweaker.platinum_coin": "Platinum Coin",
     "item.contenttweaker.platinum_dust": "Platinum Dust",
 
     "item.contenttweaker.bone_ash": "Bone Ash",
@@ -22,5 +21,6 @@
     "item.contenttweaker.clay_batter": "Clay Batter",
     "item.contenttweaker.mud_batter": "Mud Batter",
     "item.contenttweaker.stone_brick_mold": "Stone Brick Mold",
-    "item.contenttweaker.mud_brick": "Mud Brick"
+    "item.contenttweaker.mud_brick": "Mud Brick",
+    "item.contenttweaker.sugar_cane_pulp": "Sugar Cane Pulp"
 }

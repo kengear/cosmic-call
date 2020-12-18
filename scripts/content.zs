@@ -11,6 +11,7 @@ new ItemBuilder().build("mud_batter");
 new ItemBuilder().build("clay_batter");
 new ItemBuilder().build("stone_brick_mold");
 new ItemBuilder().build("mud_brick");
+new ItemBuilder().build("sugar_cane_pulp");
 
 new ItemBuilder().build("redstone_transmission_coil");
 new ItemBuilder().build("redstone_conductance_coil");
@@ -25,7 +26,6 @@ new BlockBuilder().build("platinum_block");
 new ItemBuilder().build("platinum_ingot");
 new ItemBuilder().build("platinum_nugget");
 new ItemBuilder().build("platinum_dust");
-new ItemBuilder().build("platinum_coin");
 
 
 

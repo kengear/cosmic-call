@@ -1,5 +1,6 @@
 //rftools
 
+craftingTable.removeRecipe(<item:rftoolsbase:dimensionalshard>);
 craftingTable.removeRecipe(<item:rftoolsbase:manual>);
 mods.jei.JEI.hideItem(<item:rftoolsbase:manual>);
 
