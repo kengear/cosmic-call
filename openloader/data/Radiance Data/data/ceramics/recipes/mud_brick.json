@@ -1,9 +1,0 @@
-{
-  "type": "ceramics:kiln",
-  "ingredient": {
-    "item": "contenttweaker:undried_mud_brick"
-  },
-  "result": "contenttweaker:mud_brick",
-  "experience": 0.3,
-  "cookingtime": 100
-}

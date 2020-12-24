@@ -14,7 +14,7 @@
 #Item configurations for More Plates
 [Items]
 	#Enable vibranium integration
-	register_vibranium = false
+	register_vibranium = true
 	#Enable crystaltine integration
 	register_crystaltine = true
 	#Enable netherite integration
@@ -23,12 +23,12 @@
 	register_ivory_psimetal = true
 	#Enable emerald integration
 	register_emerald = true
-	#Enable tungsten carbide integration
-	register_tungsten_carbide = false
-	#Enable prudentium integration
-	register_prudentium = false
 	#Enable unobtainium all the modium alloy integration
 	register_unobtainium_allthemodium_alloy = true
+	#Enable tungsten carbide integration
+	register_tungsten_carbide = true
+	#Enable prudentium integration
+	register_prudentium = true
 	#Enable manasteel integration
 	register_manasteel = true
 	#Enable compressed iron integration
@@ -46,23 +46,25 @@
 	#Enable bronze integration
 	register_bronze = true
 	#Enable prosperity integration
-	register_prosperity = false
+	register_prosperity = true
 	#Enable silver integration
 	register_silver = true
 	#Enable platinum integration
 	register_platinum = true
 	#Enable tungsten integration
-	register_tungsten = false
+	register_tungsten = true
 	#Enable supremium integration
-	register_supremium = false
+	register_supremium = true
 	#Enable prismarine integration
 	register_prismarine_crystals = true
 	#Enable quartz enriched iron integration
 	register_quartz_enriched_iron = true
 	#Enable imperium integration
-	register_imperium = false
+	register_imperium = true
 	#Enable sapphire integration
 	register_sapphire = true
+	#Enable ice dragonsteel integration
+	register_dragonsteel_ice = true
 	#Enable refined glowstone integration
 	register_refined_glowstone = true
 	#Enable lumium integration
@@ -76,9 +78,9 @@
 	#Enable diamond integration
 	register_diamond = true
 	#Enable purple alloy integration
-	register_purple_alloy = false
+	register_purple_alloy = true
 	#Enable soulium integration
-	register_soulium = false
+	register_soulium = true
 	#Enable neptunium integration
 	register_neptunium = true
 	#Enable certus quartz integration
@@ -88,43 +90,47 @@
 	#Enable quartz integration
 	register_nether_quartz = true
 	#Enable red alloy integration
-	register_red_alloy = false
+	register_red_alloy = true
 	#Enable osmium integration
 	register_osmium = true
 	#Enable enhanced ender integration
 	register_enhanced_ender = true
-	#Enable fluix integration
-	register_fluix = true
 	#Enable vibranium all the modium alloy integration
 	register_vibranium_allthemodium_alloy = true
+	#Enable fluix integration
+	register_fluix = true
 	#Enable brass integration
-	register_brass = false
+	register_brass = true
 	#Enable iron integration
 	register_iron = true
 	#Enable tin integration
 	register_tin = true
+	#Enable lightning dragonsteel integration
+	register_dragonsteel_lightning = true
 	#Enable flint integration
 	register_flint = true
 	#Enable elementium integration
 	register_elementium = true
 	#Enable nickel integration
 	register_nickel = true
+	#Enable fire dragonsteel integration
+	register_dragonsteel_fire = true
 	#Enable tertium integration
-	register_tertium = false
+	register_tertium = true
 	#Enable bismuth integration
 	register_bismuth = true
 	#Enable starmetal integration
 	register_starmetal = true
 	#Enable unobtainium integration
-	register_unobtainium = false
+	register_unobtainium = true
 	#Enable amethyst integration
 	register_amethyst = true
 	#Enable ruby integration
 	register_ruby = true
-	#Enable insanium integration
-	register_insanium = false
 	#Enable all the modium integration
 	register_allthemodium = true
+	#Enable insanium integration
+	register_insanium = true
 	#Enable ender integration
 	register_ender = true
 	#Enable enderium integration
@@ -137,6 +143,8 @@
 	register_gold = true
 	#Enable redstone ingot integration
 	register_redstone_ingot = true
+	#Enable phantasmal integration
+	register_ghost = true
 	#Enable resonating gem integration
 	register_resonating_gem = true
 	#Enable gaia spirit integration
@@ -146,7 +154,7 @@
 	#Enable signalum integration
 	register_signalum = true
 	#Enable zinc integration
-	register_zinc = false
+	register_zinc = true
 	#Enable refined obsidian integration
 	register_refined_obsidian = true
 	#Enable steel integration
@@ -158,25 +166,25 @@
 	#Enable psimetal integration
 	register_psimetal = true
 	#Enable blue alloy integration
-	register_blue_alloy = false
-	#Enable inferium integration
-	register_inferium = false
+	register_blue_alloy = true
 	#Enable ebony psimetal integration
 	register_ebony_psimetal = true
+	#Enable inferium integration
+	register_inferium = true
 	#Enable brick integration
 	register_brick = true
-	#Enable invar integration
-	register_invar = true
 	#Enable lapis integration
 	register_lapis_lazuli = true
 	#Enable aluminum integration
 	register_aluminum = true
+	#Enable invar integration
+	register_invar = true
 	#Enable redstone integration
 	register_redstone = true
 	#Enable paper integration
 	register_paper = true
 	#Enable vibranium unobtainium alloy integration
-	register_vibranium_unobtainium_alloy = false
+	register_vibranium_unobtainium_alloy = true
 	#Enable constantan integration
 	register_constantan = true
 

@@ -95,7 +95,8 @@
   "fluid.thermal.seed_oil": "Seed Oil",
   "fluid.thermal.syrup": "Syrup",
   "fluid.thermal.tree_oil": "Tree Oil",
-
+  "fluid.thermal.light_oil": "Naphtha",
+  
   "info.thermal.catalysts": "Catalysts",
   "info.thermal.energy_mod": "Energy Modifier",
   "info.thermal.primary_mod": "Primary Modifier",
@@ -129,7 +130,8 @@
   "item.thermal.seed_oil_bucket": "Seed Oil Bucket",
   "item.thermal.syrup_bucket": "Syrup Bucket",
   "item.thermal.tree_oil_bucket": "Tree Oil Bucket",
-
+  "item.thermal.light_oil_bucket": "Light Oil Bucket",
+  
   "item.thermal.redstone_bucket": "Destabilized Redstone Bucket",
   "item.thermal.glowstone_bucket": "Energized Glowstone Bucket",
   "item.thermal.ender_bucket": "Resonant Ender Bucket",

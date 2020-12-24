@@ -13,14 +13,18 @@
     "item.contenttweaker.platinum_ingot": "Platinum Ingot",
     "item.contenttweaker.platinum_nugget": "Platinum Nugget",
     "item.contenttweaker.platinum_dust": "Platinum Dust",
+    "block.contenttweaker.smashed_machine_frame": "Smashed Machine Frame",
+    "block.contenttweaker.loose_saw_blade": "Loose Saw Blade",
+    "block.contenttweaker.severed_macerator": "Severed Macerator",
+    "block.contenttweaker.ruptured_freezer": "Ruptured Freezer",
+    "block.contenttweaker.lava_leaking_crucible": "Lava Leaking Crucible",
+    "block.contenttweaker.fragmented_filler": "Fragmented Filler",
+    "block.contenttweaker.disrepaired_alloyer": "Disrepaired Alloyer",
+    "block.contenttweaker.degraded_furnace": "Degraded Furnace",
+    "block.contenttweaker.crushed_hydrator": "Crushed Hydrator",
+    "block.contenttweaker.fuel_tank": "Fuel Tank",
+	"block.contenttweaker.unrecognizable_remains": "Unrecognizable Remains",
+	"block.contenttweaker.debris": "Debris",
+	"block.contenttweaker.rubble": "Rubble"
 
-    "item.contenttweaker.bone_ash": "Bone Ash",
-    "item.contenttweaker.straw": "Straw",
-    "item.contenttweaker.undried_mud_brick": "Undried Mud Brick",
-    "item.contenttweaker.undried_clay_brick": "Undried Clay Brick",
-    "item.contenttweaker.clay_batter": "Clay Batter",
-    "item.contenttweaker.mud_batter": "Mud Batter",
-    "item.contenttweaker.stone_brick_mold": "Stone Brick Mold",
-    "item.contenttweaker.mud_brick": "Mud Brick",
-    "item.contenttweaker.sugar_cane_pulp": "Sugar Cane Pulp"
 }

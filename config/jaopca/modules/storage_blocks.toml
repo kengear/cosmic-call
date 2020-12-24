@@ -1,5 +1,0 @@
-
-[general]
-	#The material blacklist of this module.
-	materialBlacklist = ["biotite", "brick", "ender_pearl", "glowstone", "nether_brick", "prismarine"]
-

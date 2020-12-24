@@ -1,0 +1,6 @@
+{
+  "parent": "contenttweaker:block/smashed_machine_frame",
+  "textures": {
+    "north": "contenttweaker:block/fuel_tank"
+  }
+}
