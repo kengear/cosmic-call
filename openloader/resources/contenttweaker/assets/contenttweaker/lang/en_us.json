@@ -1,13 +1,9 @@
 {
     "item.contenttweaker.redstone_transmission_coil": "Redstone Transmission Coil",
     "item.contenttweaker.redstone_conductance_coil": "Redstone Conductance Coil",
-    "item.contenttweaker.compressed_sawdust": "Compressed Sawdust",
     "item.contenttweaker.tool_casing": "Tool Casing",
-    "item.contenttweaker.base_integral_components": "Base Integral Components",
     "item.contenttweaker.augment_base": "Augment Base",
     "item.contenttweaker.device_frame": "Device Frame",
-    "item.contenttweaker.phyto_gro": "Phyto-Gro",
-    "item.contenttweaker.wood_chips": "Wood Chips",
     "block.contenttweaker.device_frame": "Device Frame",
     "block.contenttweaker.platinum_block": "Platinum Block",
     "item.contenttweaker.platinum_ingot": "Platinum Ingot",
@@ -22,9 +18,5 @@
     "block.contenttweaker.disrepaired_alloyer": "Disrepaired Alloyer",
     "block.contenttweaker.degraded_furnace": "Degraded Furnace",
     "block.contenttweaker.crushed_hydrator": "Crushed Hydrator",
-    "block.contenttweaker.fuel_tank": "Fuel Tank",
-	"block.contenttweaker.unrecognizable_remains": "Unrecognizable Remains",
-	"block.contenttweaker.debris": "Debris",
-	"block.contenttweaker.rubble": "Rubble"
-
+    "block.contenttweaker.fuel_tank": "Fuel Tank"
 }

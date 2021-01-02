@@ -12,10 +12,6 @@ new BlockBuilder().build("disrepaired_alloyer");
 new BlockBuilder().build("degraded_furnace");
 new BlockBuilder().build("crushed_hydrator");
 new BlockBuilder().build("fuel_tank");
-new BlockBuilder().build("unrecognizable_remains");
-new BlockBuilder().build("debris");
-new BlockBuilder().build("rubble");
-
 
 
 
