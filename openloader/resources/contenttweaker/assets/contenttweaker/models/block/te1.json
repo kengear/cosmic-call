@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "contenttweaker:block/te1",
+    "down": "contenttweaker:block/te1",
+    "up": "contenttweaker:block/te1",
+    "east": "contenttweaker:block/te1",
+    "west": "contenttweaker:block/te1",
+    "north": "contenttweaker:block/te1",
+    "south": "contenttweaker:block/te1"
+  }
+}

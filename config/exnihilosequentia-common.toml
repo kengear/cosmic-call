@@ -4,12 +4,12 @@
 	#Number of buckets the barrel will hold (Default: 1)
 	#Range: > 1
 	barrelNumberOfBuckets = 1
-	#How much fluid rain will fill per iteration (Default: 2)
-	#Range: > 1
-	rainFillAmount = 2
 	#The max temperature a barrel can accept; water is 300 (Default: 300)
 	#Range: > 0
 	woodBarrelMaxTemp = 300
+	#How much fluid rain will fill per iteration (Default: 2)
+	#Range: > 1
+	rainFillAmount = 2
 
 	#Mob Spawn Configs
 	[barrel.mob_spawn]
@@ -19,12 +19,12 @@
 
 	#Compost Configs
 	[barrel.compost]
-		#How much solids need to be in barrel before composting starts (Default: 1000)
-		#Range: > 1
-		maxSolidAmount = 1000
 		#Number of seconds to spawn mobs (Default: 10)
 		#Range: > 1
 		secondsToCompost = 10
+		#How much solids need to be in barrel before composting starts (Default: 1000)
+		#Range: > 1
+		maxSolidAmount = 1000
 
 	#Fluid Transform Configs
 	[barrel.fluid_transform]
@@ -64,35 +64,35 @@
 	#Number of seconds to for leaves to become completely infested (Default: 10)
 	#Range: > 1
 	secondsToTransformLeaves = 10
-	#Percentage of the time that infested leaves will spread (Default: 0.3)
-	#Range: 0.001 ~ 1.0
-	spreadChance = 0.3
 	#Number of ticks between infested leave spread attempts (Default: 100)
 	#Range: > 1
 	ticksBetweenSpreadAttempt = 100
+	#Percentage of the time that infested leaves will spread (Default: 0.3)
+	#Range: 0.001 ~ 1.0
+	spreadChance = 0.3
 
 #Sieve Configs
 [sieve]
 	#Sieve will get results for all mesh tiers below the one in the sieve (Default: true)
 	flattenSieveRecipes = true
+	#Meshes will have durability and can break. (Default: false)
+	enableMeshDurability = false
 	#Defines the radius that a sieve will attempt to activate other sieves (Default: 2)
 	#Range: 0 ~ 5
 	sieveRange = 2
-	#Meshes will have durability and can break. (Default: false)
-	enableMeshDurability = false
 
 #Compatibility Configs
 [compatibility]
 	#Should Thermal Expansion ores be enabled? (Default: false)
 	enableThermalExpansion = false
-	#Should Immersive Engineering ores be enabled? (Default: false)
-	enableImmersiveEngineering = false
 	#Should Mekanism ores be enabled? (Default: false)
 	enableMekanism = false
-	#Should Create ores be enabled? (Default: false)
-	enableCreate = false
 	#Should Silent Mechanism ores be enabled? (Default: false)
 	enableSilentMechanism = false
+	#Should Immersive Engineering ores be enabled? (Default: false)
+	enableImmersiveEngineering = false
+	#Should Create ores be enabled? (Default: false)
+	enableCreate = false
 
 #Debug Configs
 [debug]
